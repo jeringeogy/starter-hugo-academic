@@ -32,7 +32,7 @@ item:
   title: Neural Networks and Deep Learning
   url: ""
   
-  - certificate_url: 
+- certificate_url: 
   date_end: ""
   date_start: "2020-08-07"
   description: ""
@@ -41,7 +41,7 @@ item:
   title: Optical Engineering
   url: ""
   
-  - certificate_url: 
+- certificate_url: 
   date_end: ""
   date_start: "2021-01-07"
   description: ""
@@ -50,7 +50,7 @@ item:
   title: Computational Electromagnetics
   url: ""
   
-  - certificate_url: 
+- certificate_url: 
   date_end: ""
   date_start: "2020-08-07"
   description: ""

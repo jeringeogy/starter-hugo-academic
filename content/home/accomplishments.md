@@ -31,6 +31,33 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
+  
+  - certificate_url: 
+  date_end: ""
+  date_start: "2020-08-07"
+  description: ""
+  organization: IIT Madras
+  organization_url: https://www.ee.iitm.ac.in
+  title: Optical Engineering
+  url: ""
+  
+  - certificate_url: 
+  date_end: ""
+  date_start: "2021-01-07"
+  description: ""
+  organization: IIT Madras
+  organization_url: https://www.ee.iitm.ac.in
+  title: Computational Electromagnetics
+  url: ""
+  
+  - certificate_url: 
+  date_end: ""
+  date_start: "2020-08-07"
+  description: ""
+  organization: IIT Madras
+  organization_url: https://www.ee.iitm.ac.in
+  title: VLSI Technology
+  url: ""
 
 design:
   columns: '2' 

@@ -25,7 +25,7 @@ experience:
   - title: Teaching Assistant - Optical Engineering
     company: NPTEL
     company_url: 'https://nptel.ac.in/'
-    company_logo: org-gc
+    company_logo: nptel
     location: Chennai
     date_start: '2021-06-01'
     date_end: '2021-10-15'
@@ -37,7 +37,7 @@ experience:
   - title: Project Associate
     company: IIT Madras
     company_url: 'www.ee.iitm.ac.in'
-    company_logo: nptel
+    company_logo: iitm
     location: Chennai
     date_start: '2019-10-19'
     date_end: '2020-10-31'
@@ -50,7 +50,7 @@ experience:
   - title: Assistant Professor of Automotive Electronics
     company: Amal Jyothi College of Engineering
     company_url: 'www.ajce.in'
-    company_logo: org-x
+    company_logo: ajce
     location: Kottayam
     date_start: '2014-07-02'
     date_end: '2019-10-11'

@@ -37,7 +37,7 @@ experience:
   - title: Project Associate
     company: IIT Madras
     company_url: 'www.ee.iitm.ac.in'
-    company_logo: org-gc
+    company_logo: nptel
     location: Chennai
     date_start: '2019-10-19'
     date_end: '2020-10-31'

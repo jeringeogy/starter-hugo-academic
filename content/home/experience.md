@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching Assistant - Optical Engineering
+    company: NPTEL
+    company_url: 'https://nptel.ac.in/'
+    company_logo: org-gc
+    location: Chennai
+    date_start: '2021-06-01'
+    date_end: '2021-10-15'
+    description: |2-
+        Responsibilities include:
+        
+        * Preparing assignments for the online course
+        * Responding to the forum questions
   - title: Project Associate
     company: IIT Madras
     company_url: 'www.ee.iitm.ac.in'
@@ -42,7 +54,7 @@ experience:
     location: Kottayam
     date_start: '2014-07-02'
     date_end: '2019-10-11'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: I worked in Automobile Engineering department and offered courses mostly related to Automotive electronics. I was also incharge of the Automotive electronics laboratory and BOSCH joint certification center. Apart from the academic responsibilities, my role involved mentoring graduate students and giving proper career guidance.
 
 design:
   columns: '2'

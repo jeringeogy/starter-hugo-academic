@@ -2,7 +2,7 @@
 role: Research Scholar
 avatar_filename: avatar.jpg
 bio: My research interests include meta-optics, computational electromagnetics,
-  dielectric metasurface, deep learning
+  dielectric metasurfaces, deep learning
 interests:
   - Meta-optics
   - Computational Electromagnetics

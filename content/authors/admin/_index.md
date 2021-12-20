@@ -4,7 +4,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include meta-optics, computational electromagnetics,
   deep learning.
 interests:
-
+  - Meta-optics
+  - Computational Electromagnetics
+  - Dielectric metasurfaces
+  - Deep learning
 social:
   - icon: graduation-cap
     icon_pack: fas

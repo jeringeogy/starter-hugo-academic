@@ -6,7 +6,7 @@ bio: My research interests include meta-optics, computational electromagnetics,
 interests:
   - Meta-optics
   - Computational Electromagnetics
-  - Dielectric metasurfaces
+  - Dielectric metasurface
   - Deep learning
 social:
   - icon: graduation-cap

@@ -1,7 +1,7 @@
 ---
 title: Frequency Domain MMSE one-tap Equalizer for FBMC-OQAM System
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Nisha Varghese
   - admin

@@ -6,7 +6,8 @@ authors:
   - admin
   - Yerragadda Guruvaiah
   - Shanti Bhattacharya
-publication: ""
+publication: (submitted)
+publication_short: (submitted)
 abstract: |-
   We present the generation of a sidelobe suppressed
   Bessel beam using a holographic technique. In our approach, we

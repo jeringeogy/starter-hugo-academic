@@ -12,7 +12,7 @@ publication_short: Asian Journal of Physics
 abstract: Dielectric metasurfaces have great potential in compact optical
   systems. Most researchers use Finite Difference Time Domain (FDTD) based
   tools, most commonly Lumerical FDTD to calculate phase information, as well as
-  model the behaviour of light as it travels through the element. In this paper,
+  model the behavior of light as it travels through the element. In this paper,
   we explore the use of a Finite Element Method (FEM) based tool that may be
   more easily available, namely COMSOL Multiphysics software. A step-by-step
   design approach is presented to help researchers wanting to use metasurfaces
@@ -26,7 +26,7 @@ abstract: Dielectric metasurfaces have great potential in compact optical
   By implementing these specific optical functions, the use of COMSOL as a
   numerical tool in modeling dielectric metasurfaces is established.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.png
   focal_point: Smart

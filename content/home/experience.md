@@ -22,27 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Project Associate
+    company: IIT Madras
+    company_url: 'www.ee.iitm.ac.in'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Chennai
+    date_start: '2019-10-19'
+    date_end: '2020-10-31'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Designing optical elements for high-speed optical communication
+        * Fabricating diffractive optical elements (DOE) using photolithography
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Assistant Professor of Automotive Electronics
+    company: Amal Jyothi College of Engineering
+    company_url: 'www.ajce.in'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Kottayam
+    date_start: '2014-07-02'
+    date_end: '2019-10-11'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:

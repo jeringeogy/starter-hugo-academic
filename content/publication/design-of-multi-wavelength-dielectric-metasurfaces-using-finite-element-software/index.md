@@ -2,7 +2,7 @@
 title: Design of multi-wavelength dielectric metasurfaces using finite element
   software
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
   - Susan Thomas

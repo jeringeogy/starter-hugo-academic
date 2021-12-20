@@ -35,7 +35,7 @@ publication: Scientific & Academic Publishing
 featured: false
 date: 2015-07-04T00:00:00.000Z
 url_slides: ""
-title: Real Time Secure Video Transmission Using Multicore CPUs and GPU
+title: "Real Time Secure Video Transmission Using Multicore CPUs "
 tags: []
 projects:
   - example

@@ -35,4 +35,4 @@ email: ""
 ---
 Jerin Geogy George is a PhD student in the Department of Electrical Engineering at IIT Madras. He is presently working in the design and fabrication of meta-optical elements for generating complex light with tailored properties. He is also exploring the use of deep learning models to improve the efficieny of these flat optical elements
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Documents\CV_jerin.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "posts/CV_jerin.pdf" "newtab" >}}resumé{{< /staticref >}}.

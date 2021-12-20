@@ -28,14 +28,14 @@ summary: ""
 url_dataset: ""
 url_project: ""
 author_notes: []
-publication_short: SAP
+publication_short: Advances in Computing
 url_source: ""
 url_video: ""
-publication: Scientific & Academic Publishing
+publication: Advances in Computing
 featured: false
 date: 2015-07-04T00:00:00.000Z
 url_slides: ""
-title: "Real Time Secure Video Transmission Using Multicore CPUs "
+title: Real Time Secure Video Transmission Using Multicore CPUs and GPUs
 tags: []
 projects:
   - example

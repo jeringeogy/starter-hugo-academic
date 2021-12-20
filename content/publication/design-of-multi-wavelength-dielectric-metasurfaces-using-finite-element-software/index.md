@@ -26,7 +26,7 @@ abstract: Dielectric metasurfaces have great potential in compact optical
   By implementing these specific optical functions, the use of COMSOL as a
   numerical tool in modeling dielectric metasurfaces is established.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: Smart

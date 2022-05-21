@@ -1,5 +1,5 @@
 ---
-title: Generation of Sidelobe-Suppressed Bessel Beams using a Holographic Technique
+title: Sidelobe-Suppressed Bessel Beam using a Hologram
 publication_types:
   - "1"
 authors:

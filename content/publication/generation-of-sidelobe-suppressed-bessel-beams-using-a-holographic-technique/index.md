@@ -7,7 +7,7 @@ authors:
   - Yerragadda Guruvaiah
   - Shanti Bhattacharya
 publication: CLEO - PR2022 (accepted)
-publication_short: CLEO
+publication_short: CLEO - PR2022 (accepted)
 abstract: |-
   We present the generation of a sidelobe suppressed
   Bessel beam using a holographic technique. In our approach, we

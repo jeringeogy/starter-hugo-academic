@@ -1,5 +1,5 @@
 ---
-title: Sidelobe-Suppressed Bessel Beam using a Hologram
+title: Sidelobe-Suppressed Bessel Beam using Hologram
 publication_types:
   - "1"
 authors:

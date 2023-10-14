@@ -1,21 +1,5 @@
 ---
-abstract: The main difficulty in implementing security to real-time videos is
-  the processing time. Processing time is considerably high while ensuring
-  security using single-core processors. This paper is analyzing the processing
-  capability of Multicore CPUs and GPUs to facilitate a secure video
-  transmission. Six different techniques using spatial and frequency domains are
-  implemented using these systems. Adjacent frames are secured using different
-  techniques to improve security. The processed video is transmitted over LAN to
-  a neighboring system to see whether a real-time reproduction is possible or
-  not. The paper also compares the processing time for real-time as well as
-  stored videos, with varying resolutions. In the case of real-time video
-  security, the GPU system was able to transmit 23 frames per second while the
-  single-core CPU system was able to transmit only 2 frames per second.
-  Multicore CPU system with 8 cores was able to transmit 8 frames per second.
-  The resolution of the video transmitted was 320x240. When just security
-  techniques were applied (video not transmitted) on a stored video of
-  resolution 640x480, the performance of the GPU system was 38.3 times better
-  than single-core CPU system and 7.7 times better than multicore CPU system.
+abstract: Bessel beams have found important applications due to their propagation invariant nature. However, the presence of sidelobes has proven a hindrance in key imaging and biophotonics applications. We describe the design and generation of sidelobe-suppressed Bessel-like beams (SSBB) that provide enhanced contrast for light-sheet imaging. The sidelobe suppression is achieved by the interference of two Bessel beams with slightly different wavevectors. Axicon phase functions for each Bessel beam are combined into a single phase function using the random multiplexing technique. This phase function is realised using a spatial light modulator to generate a SSBB. The generated beam at 633 nm has a 1/e 2 radius of 44 µm and a propagation invariant distance of 39 mm which is more than four times that of the Rayleigh range of a Gaussian beam with the same 1/e 2 radius. Within this distance, the overall peak intensity of the sidelobes of the SSBB is less than 10% that of the main lobe peak intensity. In addition, through numerical simulation for the recovery of spatial frequencies, we show that the SSBB improves image contrast compared to a Bessel beam for light-sheet imaging. We also show that the designed phase function can be realised using a meta-optical element.
 slides: 
 url_pdf: "https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-2-7-1649&id=532407"
 publication_types:

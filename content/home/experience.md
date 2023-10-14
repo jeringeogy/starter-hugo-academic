@@ -34,18 +34,6 @@ experience:
         
         * Preparing assignments for the online course
         * Responding to the forum questions
-  - title: Teaching Assistant - Optical Engineering
-    company: NPTEL
-    company_url: 'https://nptel.ac.in/'
-    company_logo: nptel
-    location: Chennai
-    date_start: '2021-06-01'
-    date_end: '2021-10-15'
-    description: |2-
-        Responsibilities include:
-        
-        * Preparing assignments for the online course
-        * Responding to the forum questions
   - title: Project Associate
     company: IIT Madras
     company_url: 'www.ee.iitm.ac.in'

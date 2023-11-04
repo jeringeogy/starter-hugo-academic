@@ -9,7 +9,7 @@ authors:
 publication: Photonics 2023 
 publication_short: Photonics 2023, Bengaluru.
 abstract: |-
-  We present the generation of a sidelobe suppressed
+  The paper presents a new method for the generation of 
   Bessel beam using a holographic technique. In our approach, we
   used the interference pattern of a superposed Bessel beam (SBB)
   with a tilted plane wave as our hologram. The SBB is generated

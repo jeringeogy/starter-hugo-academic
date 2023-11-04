@@ -7,7 +7,7 @@ authors:
   - Yerragadda Guruvaiah
   - Shanti Bhattacharya
 publication: Conference on Lasers and Electro-Optics/Pacific Rim, P_CTu8_24
-publication_short: CLEO PR 
+publication_short: CLEO PR, Sapporo.
 abstract: |-
   We present the generation of a sidelobe suppressed
   Bessel beam using a holographic technique. In our approach, we

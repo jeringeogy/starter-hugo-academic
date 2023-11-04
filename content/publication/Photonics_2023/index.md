@@ -8,8 +8,7 @@ authors:
   - Shanti Bhattacharya
 publication: Photonics 2023 
 publication_short: Photonics 2023, Bengaluru.
-abstract:
-The paper presents a new method for generating 
+abstract: The paper presents a new method for generating 
 Bessel beams with uniform axial intensity over a 
 defined region by using metasurfaces. Bessel beams
 are well known for their non-diffracting nature,

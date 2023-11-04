@@ -1,5 +1,6 @@
 ---
 title: Sidelobe-Suppressed Bessel Beam using Hologram
+url_pdf: "https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-2-7-1649&id=532407"
 publication_types:
   - "1"
 authors:

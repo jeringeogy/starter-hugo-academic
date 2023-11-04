@@ -19,7 +19,7 @@ fields and thereby generate a uniform axial intensity Bessel
 beam. The unit cell used in this study is composed of coupled
 rectangular dielectric resonators with polysilicon as the dielectric
 material. Numerical simulations were conducted using COMSOL
-multiphysics to demonstrate the effectiveness of this approach
+multiphysics to demonstrate the effectiveness of this approach.
 draft: false
 featured: false
 image:

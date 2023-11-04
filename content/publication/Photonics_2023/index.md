@@ -33,7 +33,7 @@ title: Engineering Axial Intensity of Bessel Beams using
   Meta-axicons with Amplitude and Phase Control
 tags: []
 projects:
-  - example1
+  - Photonics_2023
 image:
   caption: 
   focal_point: ""

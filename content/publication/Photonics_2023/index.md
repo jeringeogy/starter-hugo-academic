@@ -30,7 +30,7 @@ featured: false
 date: 2023-07-04T00:00:00.000Z
 url_slides: ""
 title: Engineering Axial Intensity of Bessel Beams using
-Meta-axicons with Amplitude and Phase Control
+  Meta-axicons with Amplitude and Phase Control
 tags: []
 projects:
   - example

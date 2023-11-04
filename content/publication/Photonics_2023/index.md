@@ -14,7 +14,7 @@ abstract:
 slides: 
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
   - admin
   - Shanti Bhattacharya

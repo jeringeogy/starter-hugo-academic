@@ -16,7 +16,7 @@ publication_short: Optics Continuum
 url_source: ""
 url_video: ""
 publication: Optics continuum
-featured: false
+featured: true
 date: 2023-07-04T00:00:00.000Z
 url_slides: ""
 title: Generation of Bessel-like beams with reduced sidelobes for enhanced light-sheet microscopy

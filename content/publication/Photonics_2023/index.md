@@ -1,6 +1,6 @@
 ---
 title: Engineering Axial Intensity of Bessel Beams using Meta-axicons with Amplitude and Phase Control
-url_pdf: "https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-2-7-1649&id=532407"
+url_pdf: 
 publication_types:
   - "1"
 authors:
@@ -20,6 +20,8 @@ abstract: |-
   SBB is about 70% less compared to a standard Bessel beam
 draft: false
 featured: false
+projects:
+  - example
 image:
   filename: featured
   focal_point: Smart

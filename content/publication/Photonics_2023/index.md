@@ -9,7 +9,7 @@ authors:
 publication: Photonics 2023 
 publication_short: Photonics 2023, Bengaluru.
 abstract: |-
-  We paper presents a new method for generating
+  paper presents a new method for generating
 Bessel beams with uniform axial intensity over a defined region by
 using metasurfaces. Bessel beams are well known for their non-
 diffracting nature, but their axial intensity varies considerably
@@ -19,7 +19,7 @@ fields and thereby generate a uniform axial intensity Bessel
 beam. The unit cell used in this study is composed of coupled
 rectangular dielectric resonators with polysilicon as the dielectric
 material. Numerical simulations were conducted using COMSOL
-multiphysics to demonstrate the effectiveness of this approach.
+multiphysics to demonstrate the effectiveness of this approach
 draft: false
 featured: false
 image:

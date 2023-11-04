@@ -14,7 +14,7 @@ abstract:
 slides: 
 url_pdf: ""
 publication_types:
-  - "2"
+  - "1"
 authors:
   - admin
   - Shanti Bhattacharya
@@ -25,7 +25,7 @@ author_notes: []
 publication_short: Photonics 2023, Bengaluru
 url_source: ""
 url_video: ""
-publication: Advances in Computing
+publication: Photonics 2023, Bengaluru
 featured: false
 date: 2023-07-04T00:00:00.000Z
 url_slides: ""

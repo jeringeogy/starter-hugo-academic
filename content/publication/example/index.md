@@ -16,7 +16,7 @@ abstract: The main difficulty in implementing security to real-time videos is
   techniques were applied (video not transmitted) on a stored video of
   resolution 640x480, the performance of the GPU system was 38.3 times better
   than single-core CPU system and 7.7 times better than multicore CPU system.
-slides: example
+slides: 
 url_pdf: ""
 publication_types:
   - "2"

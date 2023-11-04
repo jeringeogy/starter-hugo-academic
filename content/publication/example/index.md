@@ -40,7 +40,7 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: 
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z

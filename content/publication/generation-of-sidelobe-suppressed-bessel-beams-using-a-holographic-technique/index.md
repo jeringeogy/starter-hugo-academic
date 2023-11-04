@@ -1,6 +1,6 @@
 ---
 title: Sidelobe-Suppressed Bessel Beam using Hologram
-url_pdf: "https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-2-7-1649&id=532407](https://opg.optica.org/abstract.cfm?uri=CLEOPR-2022-P_CTu8_24)"
+url_pdf: "https://doi.org/10.1364/CLEOPR.2022.P_CTu8_24"
 publication_types:
   - "1"
 authors:
@@ -8,7 +8,7 @@ authors:
   - Yerragadda Guruvaiah
   - Shanti Bhattacharya
 publication: Conference on Lasers and Electro-Optics/Pacific Rim, P_CTu8_24
-publication_short: CLEO PR, Sapporo.
+publication_short: CLEO PR, Sapporo
 abstract: |-
   We present the generation of a sidelobe suppressed
   Bessel beam using a holographic technique. In our approach, we

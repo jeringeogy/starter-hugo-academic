@@ -27,6 +27,8 @@ abstract: Dielectric metasurfaces have great potential in compact optical
   numerical tool in modeling dielectric metasurfaces is established.
 draft: false
 featured: false
+projects:
+  - design-of-multi-wavelength-dielectric-metasurfaces-using-finite-element-software
 image:
   filename: featured.png
   focal_point: Smart
